@@ -1,37 +1,161 @@
-## Welcome to GitHub Pages
+## 自我评价
 
-You can use the [editor on GitHub](https://github.com/springHyc/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 工作热情， 抗压能力强、对前端开发由衷热爱、可以积极解决探索问题。工作态度是非常良好的，对工作一直秉承了认真、细心的态度。
+* 在工作这几年的时间里，前端和后端都有所接触，工作的最初的一段时间中，是前后端一起进行开发，后来工作的内容更加侧重前端。
+* 随着工作时间的延长，对于前端越来越有浓厚兴趣，我的目标就是成为一个可以独当一面的前端工程师。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 专业技能
 
-### Markdown
+* css3| 熟练
+* html5| 良好
+* angular JS| 良好
+* maven| 一般
+* git| 熟练
+* java| 良好
+* javascript| 熟练
+* ionic| 良好
+* react-native| 良好
+* angular2| 熟练
+* spring mvc| 一般
+* material design | 一般
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 求职意向
 
-```markdown
-Syntax highlighted code block
+* 工作性质：全职
+* 期望职业：前端开发工程师
+* 工作地区：北京
 
-# Header 1
-## Header 2
-### Header 3
+## 工作经历
 
-- Bulleted
-- List
+### 2014/06 - 至今
 
-1. Numbered
-2. List
+中科软
+前端工程师开发|计算机软件| 企业性质：股份制企业| 规模：1000-9999人
 
-**Bold** and _Italic_ and `Code` text
+#### 工作描述：
 
-[Link](url) and ![Image](src)
-```
+  移动办公APP的开发。
+* 移动办公是气象局综合管理办公系统的辅助，初衷是，方便快捷便于内部人员办公，脱离笨重的办公电脑，将办公信息便捷化于掌上。其中主要应用的技术是：Java、Angular1.x、ionic1、Angular2、ionic2、RxJS、HTML5、CSS3、Bootstrap、foundation 、hexo等等。
+* 内部OA，也就是公司内部人员使用的APP，方便大家在手机上查阅相关信息。其中主要应用的技术是： react native、 java。
+* 平台化项目,使用的是react native。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 项目经验
 
-### Jekyll Themes
+* 2017/09-至今 移动办公2.0基本框架开发
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/springHyc/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+软件环境：
+node.js Android系统、ios系统、Android studio、xcode
 
-### Support or Contact
+硬件环境：
+Windows环境、os环境、Android设备、iOS设备
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+开发工具：
+vscode、Android Studio、xcode、yarn、git
+
+责任描述：
+负责移动办公2.0APP基础功能模块组件的开发，基础功能模块有：APP初始化流程、手势密码、联系人、通知消息展示、设置等功能
+
+项目简介：
+将APP向前推进一步的发展，将各组件以及APP主题框架向平台化发展，使用react native的技术从头开始，做出新版本的APP。
+
+* 2017/04 - 2017/09 平台化的基础组件库
+
+软件环境：
+node.js Android系统、ios系统、Android studio、xcode
+
+硬件环境：
+Windows环境、os环境、Android设备、iOS设备
+
+开发工具：
+vscode、Android Studio、xcode、yarn、git
+
+责任描述：
+负责前端APP基础组件的开发，基础组件现在做了的有：list button alert progress tab 等
+
+项目简介：
+将APP向前推进一步的发展，将各组件向平台化发展，使用react native的技术从头开始，做出自己的一套组件库。
+
+* 2017/03 - 2017/04 内部OA
+
+软件环境：
+vscode、Android Studio、xcode、node.js  chrome浏览器 、Android系统、ios系统、 Java
+
+硬件环境：
+Windows环境、os环境、Android设备、iOS设备
+
+开发工具：
+vscode、Android Studio、xcode、yarn、git
+
+责任描述：
+负责内部OA中的工资模块的整体开发，以及进度把控。其中具体主要负责前端项目的开发。
+
+项目简介：
+内部OA项目，是为了公司内部员工使用所开发的，目前只开了一个模块也就是工资模块。
+
+* 2016/02 - 2017/02 移动办公v2版本
+
+软件环境：
+angular2、ionic2、node.js  chrome浏览器 、Android系统、ios系统、 Java
+
+硬件环境：
+Windows环境、os环境、Android设备、iOS设备
+
+开发工具：
+vscode、eclipse、npm、yarn、git
+
+责任描述：
+在移动办公v2版本承担的职责相较于Angular1.x中更加的复杂化一些，不再是一个听从组长安排的组员，而是站在一个统筹的领导者的角度，来将整个项目划分模块，然后选择一个模块，再将这个模块进行划分，细致到每一个任务的分配，然后大家来按照做出来的计划进行开发。
+
+项目简介：
+随着Angular2的发布的契机，我们将项目的技术做一个升级，因为Angluar2版本相对于Angular1.x版本更加有利于我们将移动办公向一个平台化的发展。我们的目标是将移动办公作为一个平台，可以为各个项目提供一个开发平台，各个项目组可以随意增删自己想要的模块，然后进行打包发布。
+
+* 2016/01 - 2016/06 移动办公
+
+责任描述：
+主要服务移动办公第一版本的优化、升级、改造以及添加新模块以及部分试运行单位运维方面的工作。在这段时间主要学习到的东西就是，对移动办公的业务需求以及代码上的掌握更加的好。
+
+项目简介：
+在版本试运行一年的时间左右，项目比较稳定，逐渐增加的模块也是一些客户需要的新模块。也包括之前一些模块功能的优化与改造以更加适应新增开发人员的开发。
+
+* 2014/10 - 2015/12 移动办公
+
+硬件环境：
+Windows环境、os环境、Android设备、iOS设备
+
+开发工具：
+Sublime Text 、npm、eclipse
+
+责任描述：
+前端开发 + 对应后端开发
+中国气象局OA办公系统由PC浏览器端移植到手机APP端，包括部分模块前端开发 + 对应后端开发。
+功能相关模块开发：出差管理、出差管理、会议管理、信息发布、待阅管理。
+安全相关模块开发：设备管理、在线状态监控、模块权限控制。
+PC端介绍与使用案例页面：简介页面、使用指南。
+
+项目简介：
+移动办公APP基于中国气象局OA办公系统的业务与功能，同时依赖于工作流引擎系统，将PC端的OA系统移植到手机app端。
+移动办公系统前端采用html5+css3+angularJS+require JS技术，并基于mvc分层的思想开发，单元测试框架利用Jasmine框架，同时基于  Cordova、Crosswalk跨平台的特点，实现开发一套代码即可打包后运行在andorid和ios等不同设备上。
+服务器端开发基于spingMVC + jdbc + jpa + maven +groovy，数据库系统为oracle；
+前端与服务器端的版本管理采用git；""
+信息发布模块中字体布局与文字样式部分参考"今日头条"、"网易新闻"、"zaker"等新闻客户端;
+PC端介绍与使用案例页面是基于foundation框架来完成的，使用指南是使用markdown软件编写，利用hexo集成。
+PC端设备管理页面采用Bootstrap框架完成。
+
+* 2014/06 - 2014/09 气象局OA办公系统(PC端)
+
+软件环境：
+windows7+oracle+was/中创
+
+开发工具：
+myeclipse
+
+责任描述：
+修复系统中的bug,优化代码以及重构，根据客户需求变化，开发新的功能
+
+项目简介：
+中国气象局OA办公系统依托工作流引擎和权限控制为核心，并以气象局人员的办公自动化的需求为目的，系统中主要功能模块有系统管理、公文管理、出差管理、邮件管理等几十个子模块构成
+该系统初期采用jsp+struts1+jdbc+hibernate技术，后续引入springMVC，版本管理采用svn
+
+## 教育经历 2010/09 - 2014/06
+
+石家庄经济学院  计算机科学与技术  本科
